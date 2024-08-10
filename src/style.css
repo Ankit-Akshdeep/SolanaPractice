@@ -1,0 +1,29 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #96968f;
+}
+
+h1 {
+    color: #333;
+}
+
+#mnemonics-container {
+    margin-top: 20px;
+}
+
+.mnemonic-container {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.wallets-container {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}

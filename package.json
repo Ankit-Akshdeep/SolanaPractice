@@ -1,0 +1,19 @@
+{
+  "name": "solana-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/wallet-adapter-base": "^0.9.23",
+    "@solana/web3.js": "^1.95.2",
+    "vite": "^5.4.0"
+  }
+}
